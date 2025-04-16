@@ -5,12 +5,9 @@ Projeto desenvolvido durante o curso da **Fundação Bradesco**.
 Este é um projeto simples e funcional utilizando **HTML, CSS e JavaScript**, com foco na implementação de um sistema de alternância entre **tema claro e escuro**, utilizando **variáveis CSS** e **JavaScript puro** para manipulação dinâmica.
 
 ---
+📸 Preview
+![image](https://github.com/user-attachments/assets/6e107c68-2099-491f-9e2d-3012684b3b71)
 
-## 📸 Preview
-
-![Preview do site](https://github.com/user-attachments/assets/9ec0fa2f-e528-4fb8-a043-0ff379895e1a)
-
----
 
 ## ✨ Funcionalidades
 
